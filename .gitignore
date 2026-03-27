@@ -1,0 +1,8 @@
+.venv
+.aux
+.out
+.gz
+.fls
+.log
+.blg
+.bbl
