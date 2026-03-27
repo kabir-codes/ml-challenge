@@ -1,8 +1,10 @@
+
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
 .venv
-.aux
-.out
-.gz
-.fls
-.log
-.blg
-.bbl
